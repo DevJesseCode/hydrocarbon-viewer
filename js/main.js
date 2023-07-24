@@ -1,0 +1,23 @@
+// Create a Map with the hydrocarbon names and their corresponding carbon atom count
+const names_carbon = new Map([
+  ["meth", 1],
+  ["eth", 2],
+  ["prop", 3],
+  ["but", 4],
+  ["pent", 5],
+  ["hex", 6],
+  ["hept", 7],
+  ["oct", 8],
+  ["non", 9],
+  ["dec", 10],
+  ["undec", 11],
+  ["duodec", 12],
+  ["tridec", 13],
+  ["tetradec", 14],
+  ["pentadec", 15],
+  ["hexadec", 16],
+  ["heptadec", 17],
+  ["octadec", 18],
+  ["nonadec", 19],
+  ["icos", 20],
+]);
